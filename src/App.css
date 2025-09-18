@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.home {
+  display: grid;
+  grid-template-columns: repeat(3);
+}
