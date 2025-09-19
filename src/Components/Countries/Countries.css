@@ -1,0 +1,14 @@
+.conuntries {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.countryList {
+  padding: 10px;
+  font-size: 17px;
+
+  border: 2px solid navy;
+  border-radius: 10px;
+  cursor: pointer;
+}

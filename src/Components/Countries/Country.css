@@ -1,0 +1,28 @@
+.country {
+  border: 2px solid salmon;
+  margin: 20px;
+  padding: 20px;
+}
+
+.visited-country {
+  background-color: rgba(210, 180, 140, 3);
+  border-radius: 20px;
+}
+
+.addtoList {
+  background-color: tomato;
+  padding: 9px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.visitedBtn {
+  background-color: aqua;
+  padding: 9px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
